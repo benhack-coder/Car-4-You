@@ -1,0 +1,7 @@
+/Users/lorenzolettieri/IdeaProjects/bel-cars-for-you-microservices/loginserver/src/main/java/ch/bbcag/bel/loginServer/model/User.java
+/Users/lorenzolettieri/IdeaProjects/bel-cars-for-you-microservices/loginserver/src/main/java/ch/bbcag/bel/loginServer/model/Authorization.java
+/Users/lorenzolettieri/IdeaProjects/bel-cars-for-you-microservices/loginserver/src/main/java/ch/bbcag/bel/loginServer/repository/AuthorizationRepository.java
+/Users/lorenzolettieri/IdeaProjects/bel-cars-for-you-microservices/loginserver/src/main/java/ch/bbcag/bel/loginServer/controller/UserController.java
+/Users/lorenzolettieri/IdeaProjects/bel-cars-for-you-microservices/loginserver/src/main/java/ch/bbcag/bel/loginServer/common/PasswordHasher.java
+/Users/lorenzolettieri/IdeaProjects/bel-cars-for-you-microservices/loginserver/src/main/java/ch/bbcag/bel/loginServer/repository/UserRepository.java
+/Users/lorenzolettieri/IdeaProjects/bel-cars-for-you-microservices/loginserver/src/main/java/ch/bbcag/bel/loginServer/LoginServerApplication.java

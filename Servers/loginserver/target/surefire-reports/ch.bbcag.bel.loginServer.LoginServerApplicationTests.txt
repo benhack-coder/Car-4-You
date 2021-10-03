@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ch.bbcag.bel.loginServer.LoginServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.977 s - in ch.bbcag.bel.loginServer.LoginServerApplicationTests

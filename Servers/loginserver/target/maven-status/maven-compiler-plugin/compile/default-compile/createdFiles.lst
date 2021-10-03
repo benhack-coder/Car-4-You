@@ -1,0 +1,7 @@
+ch/bbcag/bel/loginServer/controller/UserController.class
+ch/bbcag/bel/loginServer/model/User.class
+ch/bbcag/bel/loginServer/model/Authorization.class
+ch/bbcag/bel/loginServer/repository/AuthorizationRepository.class
+ch/bbcag/bel/loginServer/common/PasswordHasher.class
+ch/bbcag/bel/loginServer/repository/UserRepository.class
+ch/bbcag/bel/loginServer/LoginServerApplication.class

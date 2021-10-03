@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/carServer/carServer.iml" filepath="$PROJECT_DIR$/carServer/carServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emailServer/emailServer.iml" filepath="$PROJECT_DIR$/emailServer/emailServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginserver/loginServer.iml" filepath="$PROJECT_DIR$/loginserver/loginServer.iml" />
+    </modules>
+  </component>
+</project>
